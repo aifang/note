@@ -1,0 +1,6 @@
+typings install dt~angular-component-router --global --save
+typings install dt~arcgis-js-api --global --save
+typings install dt~dojo --global --save
+typings  rm node -S -G
+typings search dt 
+cd D:\Source code\webgis\timeSlider
