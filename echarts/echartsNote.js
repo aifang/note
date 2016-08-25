@@ -303,7 +303,8 @@ theme = {
             show: false,
             textStyle: {       // 其余属性默认使用全局文本样式，详见TEXTSTYLE
                 color: '#333'
-            }
+            },
+            formatter: function (value) { return value + "万"; }
         },
         splitArea : {
             show : true,
