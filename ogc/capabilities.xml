@@ -1,0 +1,6 @@
+
+<!--载图看openlayer的例子-->
+<ows:BoundingBox>
+              <ows:LowerCorner>469629.1017841697 xmin  2524256.4220896135 ymin</ows:LowerCorner>
+              <ows:UpperCorner>508764.8602661831 xmax 2622095.818294637 ymax</ows:UpperCorner>
+</ows:BoundingBox>

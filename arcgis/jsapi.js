@@ -1,0 +1,1 @@
+" years =" + map.timeSlider.labels[i];  //years 为整形 years ='2010' gdb直接报错，可能是有严格sql值类型
